@@ -57,21 +57,20 @@
    - [**Nationalism and Unification**](#): Movements in Germany and Italy, the decline of empires like the Austro-Hungarian and Ottoman Empires.
    - [**Colonial Expansion and Imperialism**](#): The Scramble for Africa and the impact of imperial competition.
 
-## 10. **World Wars and Interwar Period (20th Century)**
-   - **World War I**: Causes, major battles, and the Treaty of Versailles.
-   - **The Russian Revolution**: Fall of the Tsarist regime and the rise of the Soviet Union.
-   - **Interwar Period**: Economic instability, the rise of fascism and totalitarianism, and the League of Nations.
-   - **World War II**: Causes, major events, the Holocaust, and the aftermath.
+## 10. [**World Wars and Interwar Period (20th Century)**](#)
+   - [**World War I**](#): Causes, major battles, and the Treaty of Versailles.
+   - [**The Russian Revolution**](#): Fall of the Tsarist regime and the rise of the Soviet Union.
+   - [**Interwar Period**](#): Economic instability, the rise of fascism and totalitarianism, and the League of Nations.
+   - [**World War II**](#): Causes, major events, the Holocaust, and the aftermath.
 
-## 11. **Post-War Europe (Mid-20th Century Onwards)**
-   - **Cold War Era**: Division between East and West, NATO, the Warsaw Pact, and key events like the Berlin Airlift and the Cuban Missile Crisis.
-   - **The European Union**: Formation, growth, and impact on European unity and policy.
-   - **Decolonization**: The end of European empires and the independence movements in Asia, Africa, and the Middle East.
-   - **Fall of the Soviet Union**: The collapse of communism in Eastern Europe and the end of the Cold War.
+## 11. [**Post-War Europe (Mid-20th Century Onwards)**](#)
+   - [**Cold War Era**](#): Division between East and West, NATO, the Warsaw Pact, and key events like the Berlin Airlift and the Cuban Missile Crisis.
+   - [**The European Union**](#): Formation, growth, and impact on European unity and policy.
+   - [**Decolonization**](#): The end of European empires and the independence movements in Asia, Africa, and the Middle East.
+   - [**Fall of the Soviet Union**](#): The collapse of communism in Eastern Europe and the end of the Cold War.
 
-## 12. **Contemporary Europe (21st Century)**
-   - **European Integration and Challenges**: Expansion of the EU, Eurozone crisis, Brexit.
-   - **Social and Political Movements**: Immigration, populism, and the rise of nationalist parties.
-   - **Europe in Global Context**: European foreign policy, relations with the US, China, and Russia, and Europe’s role in global affairs.
+## 12. [**Contemporary Europe (21st Century)**](#)
+   - [**European Integration and Challenges**](#): Expansion of the EU, Eurozone crisis, Brexit.
+   - [**Social and Political Movements**](#): Immigration, populism, and the rise of nationalist parties.
+   - [**Europe in Global Context**](#): European foreign policy, relations with the US, China, and Russia, and Europe’s role in global affairs.
 
-This list provides a structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time.
