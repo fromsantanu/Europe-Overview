@@ -31,7 +31,7 @@
    - [**The Catholic Counter-Reformation**](#): The Council of Trent, Jesuits, and reaffirmation of Catholic doctrine.
    - [**Religious Wars**](#): Conflicts like the Thirty Years’ War, Peace of Westphalia, and their impact on Europe.
 
-### 5. **The Scientific Revolution (16th to 18th Century)**
+## 5. **The Scientific Revolution (16th to 18th Century)**
    - [**Key Figures and Discoveries**](#): Copernicus, Galileo, Kepler, Newton, and their contributions to science.
    - [**Impact on Philosophy and Religion**](#): The challenge to traditional views and the rise of rationalism.
 
